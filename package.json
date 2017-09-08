@@ -1,0 +1,49 @@
+{
+  "name": "nodonfido",
+  "version": "0.0.5",
+  "description": "A Node.js client for Onfido developed by Verbat Technologies",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.2",
+    "request": "^2.65.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AML-check",
+    "background-check",
+    "onfido",
+    "nodofido",
+    "nodonfido"
+  ],
+  "author": {
+    "name": "vineeth/jayanthi/Verbat Technologies",
+    "email": "vineeth.raju@verbat.com",
+    "url": "http://verbat.com"
+  },
+  "maintainers": [
+    {
+      "name": "vineeisnotbad",
+      "email": "vineeth.raju@verbat.com"
+    }
+  ],
+  "license": "ISC",
+  "_shasum": "e332ec658ba6fb8d473bd7dbdb0df5233bee01d7",
+  "_from": "nodonfido@0.0.5",
+  "_id": "nodonfido@0.0.5",
+  "_npmVersion": "2.14.4",
+  "_nodeVersion": "4.1.1",
+  "_npmUser": {
+    "name": "vineeisnotbad",
+    "email": "vineeth.raju@verbat.com"
+  },
+  "dist": {
+    "shasum": "e332ec658ba6fb8d473bd7dbdb0df5233bee01d7",
+    "tarball": "http://registry.npmjs.org/nodonfido/-/nodonfido-0.0.5.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodonfido/-/nodonfido-0.0.5.tgz",
+  "readme": "ERROR: No README data found!"
+}
